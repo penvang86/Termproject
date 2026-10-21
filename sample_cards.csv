@@ -1,0 +1,9 @@
+front,back
+What keyword defines a function in Python?,def
+What does len() return?,The number of items in an object
+Which data type is immutable: list or tuple?,tuple
+What module reads and writes JSON?,json
+How do you catch an error?,try/except
+What does self refer to in a method?,The current instance of the class
+What does range(3) produce?,"0, 1, 2"
+Which keyword exits a loop early?,break
